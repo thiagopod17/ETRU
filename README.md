@@ -58,7 +58,7 @@ Lower-level arithmetic in Z[ω] and Z[ω][x] (modular reduction, GCD,
 extended Euclidean algorithm, polynomial division/inversion mod a
 prime) lives in the same file and backs the functions above.
 
-## Package layout
+## Repository layout
 
 - `ETRU_codigo_final.sage` — ETRU arithmetic over Z[ω], key generation,
   encryption and decryption.
