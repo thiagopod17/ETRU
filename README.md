@@ -72,4 +72,4 @@ prime) lives in the same file and backs the functions above.
 2. Nevins, M., KarimianPour, C., Miri, A. (2010). NTRU over rings beyond Z. *Designs, Codes and Cryptography*, 56:65–78.
 3. Knuth, D. E. (1997). *The Art of Computer Programming*, vol. 2 (3rd ed.): Seminumerical Algorithms. Addison-Wesley.
 4. May, A., Silverman, J. H. (2001). Dimension reduction methods for convolution modular lattices. *International Cryptography and Lattices Conference*. Springer.
-5. Silva, A. M. C., do Rego Sousa, T., Carneiro, T. (2024). Cutting dimensions in the LLL attack for the ETRU post-quantum cryptosystem. SBSEG 2024.
+5. Silva, A. M. C., do Rego Sousa, T., Souza Neto, T. (2024). Cutting dimensions in the LLL attack for the ETRU post-quantum cryptosystem. *SBSeg 2024*, 154–164. <doi:10.5753/sbseg.2024.240859>
